@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = andrea.conti92ògmail.com
+	name = Andrea Conti
